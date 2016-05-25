@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
+import { InputComponent } from './input';
+
 @Component({
     moduleId: module.id,
     selector: 'sd-examples',
